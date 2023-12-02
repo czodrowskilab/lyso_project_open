@@ -1,0 +1,16 @@
+name: lyso_xml-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.6
+  - rdkit=2022.09.01
+  - numpy=1.23.4
+  - pandas=1.5.1
+  - matplotlib=3.6.2
+  - seaborn
+  - tqdm
+  - jupyterlab
+  - shap
+  - ipywidgets
+  - xgboost=1.7.0
+  - scikit-learn=1.1.3
